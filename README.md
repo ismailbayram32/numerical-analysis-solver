@@ -70,6 +70,3 @@ This makes the project more than just a numerical solver — it also includes pa
 - **math.h library**
 
 ---
-
-```bash
-gcc main.c -o solver -lm
